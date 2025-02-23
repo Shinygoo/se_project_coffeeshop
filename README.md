@@ -23,6 +23,6 @@ Here are future enhancement I'd like to implement:
 
 ### 2. **Dynamic content**
 
--Add a customer review section form or a mock coffee customization tool (e.g. "Design your drink")
+-Add a customer review section form or a coffee customization tool (e.g. "Design your drink")
 
 **_Recomendations or tips are always welcomed._**
