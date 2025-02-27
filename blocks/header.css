@@ -5,6 +5,7 @@
   height: 800px;
   display: flex;
   flex-direction: column;
+  z-index: 1;
 }
 
 .header__title {
@@ -26,13 +27,14 @@
 .header__description {
   margin: 28px 0 0;
   max-width: 683px;
-  font-weight: 500;
+  font-weight: 400;
   font-size: 20px;
   line-height: 30px;
 }
 
 .header__image {
   position: absolute;
+  z-index: -1;
   top: 124px;
   right: 5px;
   width: 646px;
